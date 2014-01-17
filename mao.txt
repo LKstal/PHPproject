@@ -1,4 +1,4 @@
-                <div class="right_top">
+﻿                <div class="right_top">
                 <div class="image">image</div>
                 <div class="book_info">
                     <ul>
@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="right_middle">
-                简介：
+                介绍：
             </div>
             <div class="right_bottom">
                 评论：
